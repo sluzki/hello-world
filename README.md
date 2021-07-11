@@ -1,4 +1,3 @@
 # hello-world
-ejercicio computacion estadistica
-
+Ejercicio computacion estadistica
 
